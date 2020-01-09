@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahim Tafazolli | Yasmin Fathy</title>
+    <link>https://yasminfathy.github.io/authors/rahim-tafazolli/</link>
+      <atom:link href="https://yasminfathy.github.io/authors/rahim-tafazolli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rahim Tafazolli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasminfathy.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rahim Tafazolli</title>
+      <link>https://yasminfathy.github.io/authors/rahim-tafazolli/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Indexing Method for Scalable IoT Source Lookup</title>
+      <link>https://yasminfathy.github.io/publication/hoseinitabatabaei-2018-novel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/hoseinitabatabaei-2018-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Method for Data Reduction in the Internet of Things</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2018-adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2018-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Adaptive Algorithm for Change Detection in Streaming Sensory Data</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2018-online/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2018-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale Indexing, Discovery, and Ranking for the Internet of Things (IoT)</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2018-large/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2018-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Spatial Indexing for the Internet of Things Data Management</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2017-distributed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2017-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed in-network Indexing Mechanism for the Internet of Things</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2016-distributed/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2016-distributed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

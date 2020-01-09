@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yasmin Fathy</title>
+    <link>https://yasminfathy.github.io/authors/yasmin-fathy/</link>
+      <atom:link href="https://yasminfathy.github.io/authors/yasmin-fathy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yasmin Fathy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasminfathy.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yasmin Fathy</title>
+      <link>https://yasminfathy.github.io/authors/yasmin-fathy/</link>
+    </image>
+    
+    <item>
+      <title>Best Practices for Publishing, Retrieving, and Using Spatial Data on the Web</title>
+      <link>https://yasminfathy.github.io/publication/van-2019-best/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/van-2019-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-based and Energy-efficient Data Communication for the Internet of Things Networks</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2019-quality/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2019-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Internet-of-Things Resources: Requirements and Outlook</title>
+      <link>https://yasminfathy.github.io/publication/principles/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Indexing Method for Scalable IoT Source Lookup</title>
+      <link>https://yasminfathy.github.io/publication/hoseinitabatabaei-2018-novel/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/hoseinitabatabaei-2018-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Method for Data Reduction in the Internet of Things</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2018-adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2018-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Adaptive Algorithm for Change Detection in Streaming Sensory Data</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2018-online/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2018-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federation of Internet of Things testbeds for the Realization of a Semantically-enabled Multi-domain Data Marketplace</title>
+      <link>https://yasminfathy.github.io/publication/sanchez-2018-federation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/sanchez-2018-federation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale Indexing, Discovery, and Ranking for the Internet of Things (IoT)</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2018-large/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2018-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting changes in the variance of multi-sensory accelerometer data using MCMC</title>
+      <link>https://yasminfathy.github.io/publication/ahrabian-2017-detecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/ahrabian-2017-detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Spatial Indexing for the Internet of Things Data Management</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2017-distributed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2017-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed in-network Indexing Mechanism for the Internet of Things</title>
+      <link>https://yasminfathy.github.io/publication/fathy-2016-distributed/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/fathy-2016-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Task Scheduling Policies for Work-Stealing Schedulers</title>
+      <link>https://yasminfathy.github.io/publication/adriaensentask/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/adriaensentask/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
