@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiqi Hu | Yasmin Fathy</title>
+    <link>https://yasminfathy.github.io/authors/zhiqi-hu/</link>
+      <atom:link href="https://yasminfathy.github.io/authors/zhiqi-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiqi Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yasminfathy.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhiqi Hu</title>
+      <link>https://yasminfathy.github.io/authors/zhiqi-hu/</link>
+    </image>
+    
+    <item>
+      <title>Geometry Updating for Digital Twins of Buildings: A Review to Derive a New Geometry-based Object Class Hierarchy</title>
+      <link>https://yasminfathy.github.io/publication/hu-2022-generating/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://yasminfathy.github.io/publication/hu-2022-generating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
